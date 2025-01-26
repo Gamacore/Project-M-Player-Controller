@@ -19,8 +19,7 @@ This custom player controller is a fully customizable and modular 2D player move
 - **⚔️ Zero Gravity Float:** Temporary gravity adjustment during the apex boost for smoother air-time physics.
 
 #### **⏯️ Input System Integration**
-- Fully integrated with Unity's **Input System** for handling movement and jump inputs.
-- Modular design allows easy rebinding of inputs and compatibility with keyboard, gamepad, and other input devices.
+- Fully integrated with Unity's new Input System for handling movement and jump inputs.
 
 #### **🌐 Modularity and Customization**
 - All key parameters, such as speed, acceleration, gravity, and jump settings, are exposed via serialized fields for easy tweaking in the Unity Inspector.
